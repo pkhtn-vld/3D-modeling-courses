@@ -7,4 +7,4 @@
 - Адаптивность
 - Кроссбраузерность
 ## Демо
-Вы можете посмотреть демонстрацию проекта по ссылке: (https://pkhtn-vld.github.io/3D-modeling-courses/)
+Вы можете посмотреть демонстрацию проекта по ссылке: [pkhtn-vld.github.io/3D-modeling-courses/](https://pkhtn-vld.github.io/3D-modeling-courses/)
